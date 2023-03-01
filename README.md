@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dedi Supriadi</h1>
 <h3 align="center">A Student Developer From Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dedi011002&label=Profile%20views&color=0e75b6&style=flat" alt="dedi011002" /> </p>
+<!-- <p align="left">  </p> -->
 
 - 🌱 I’m learning a **Python, JavaScript, PHP, and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dedi011002](https://github.com/dedi011002)
 
-- 📫 You can contact me at **[mail:to]dedisupriadi011002@gmail.com**
+- 📫 You can contact me at **dedisupriadi011002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
