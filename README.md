@@ -8,6 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/dedi011002](https://github.com/dedi011002)
 
 - 📫 You can contact me at **dedisupriadi011002@gmail.com**
+- 🌏 Im Based Lombok, Indonesia
 
 
 <h3 align="left">Connect with me:</h3>
