@@ -3,11 +3,12 @@
 
 <!-- <p align="left">  </p> -->
 
-- 🌱 I’m learning a **Python, JavaScript, PHP, and Java**
+- 🧠 I’m learning a **Fullstack Web Developer and Ethical Hacking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dedi011002](https://github.com/dedi011002)
 
 - 📫 You can contact me at **dedisupriadi011002@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
