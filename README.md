@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Dedi Supriadi</h1>
-<h3 align="center">A Student at Mataram University of Technology From Indonesia</h3>
-<h4>Dedi Supriadi is a Student at Mataram University of Technology and currently pursuing a degree in information technology and is passionate about web development and ethical hacking.</h4>
+<h3 align="center">A Student at Mataram University of Technology</h3>
+<h4>Dedi Supriadi is a Student at the Mataram Technology University, currently pursuing a degree in information technology and chairing the cyber Security Specialist Student Activity Unit, and is passionately interested in web development and hacking.</h4>
 
-<!-- <p align="left">  </p> -->
+
 
 - 🧠 I’m learning a **Fullstack Web Developer and Ethical Hacking**
 
