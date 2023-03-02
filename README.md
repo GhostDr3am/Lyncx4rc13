@@ -1,16 +1,40 @@
+![Logo](https://github.com/dedi011002/dedi011002/blob/master/assets/Cover.png)
 
-<h1 align="center">Hi 👋, I'm Dedi Supriadi</h1>
-<h3 align="center">A Student at Mataram University of Technology</h3>
-<h4>Dedi Supriadi is a Student at the Mataram Technology University, currently pursuing a degree in information technology and chairing the cyber Security Specialist Student Activity Unit, and is passionately interested in web development and hacking.</h4>
+# Hello 👋, and welcome to my Github Profile
+
+# I'm Dedi Supriadi
+
+Dedi Supriadi is a Student at the Mataram Technology University, currently pursuing a degree in information technology and chairing the cyber Security Specialist Student Activity Unit, and is passionately interested in web development and hacking.
+
+## What's my development setup?
+
+👩‍💻 For my terminal, I user **Ubuntu 18.04** running on **WSL**.
+
+💻 My laptop runs on **Windows 11 Pro**
+
+🛠️ For IDEs, I use **Visual Studio Code** respectively. I also use Postman when working on RESTful APIs.
+
+🐘 For databases, I mainly use **MySQL**.
+
+👯‍♀️ I'm looking to collaborate on...
 
 
 
-- 🧠 I’m learning a **Fullstack Web Developer and Ethical Hacking**
+## What am I working on?
 
-- 👨‍💻 All of my projects are available at [https://github.com/dedi011002](https://github.com/dedi011002)
+💪 Currently, I'm working on PT Handevane.
 
-- 📫 You can contact me at **dedisupriadi011002@gmail.com**
-- 🌏 Im Based Lombok, Indonesia
+🗝️ If you want to learn more about some of the projects I've worked on, visit my online
+
+
+## Authors
+
+- [@dedi011002](https://www.github.com/dedi011002)
+
+## Support
+
+For support, email dedisupriadi011002@gmail.com or join our.
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -29,3 +53,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dedi011002&show_icons=true&locale=en" alt="dedi011002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dedi011002&" alt="dedi011002" /></p>
+
+
+
+
