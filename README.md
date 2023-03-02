@@ -1,14 +1,14 @@
 ![Logo](https://github.com/dedi011002/dedi011002/blob/master/assets/Cover.png)
 
-# Hello 👋, and welcome to my Github Profile
+<h1 align="center">Hello 👋, and welcome to my Github Profile</h1>
 
 # I'm Dedi Supriadi
 
-Dedi Supriadi is a Student at the Mataram Technology University, currently pursuing a degree in information technology and chairing the cyber Security Specialist Student Activity Unit, and is passionately interested in web development and hacking.
+Dedi Supriadi is a Student at the Mataram Technology University, currently pursuing a degree in information technology and chairing the cyber Security Specialist Student Activity Unit, and is passionately interested in web development and Penetration Testing.
 
 ## What's my development setup?
 
-👩‍💻 For my terminal, I user **Kali Linux 2022.4** running on *VM**.
+👩‍💻 For my terminal, I user **Kali Linux 2022.4** running on **VM**.
 
 💻 My laptop runs on **Windows 11 Pro**
 
@@ -22,14 +22,14 @@ Dedi Supriadi is a Student at the Mataram Technology University, currently pursu
 
 ## What am I working on?
 
-💪 Currently, I'm working on PT Handevane.
+💪 Currently, I'm student on PT Handevane.
 
-🗝️ If you want to learn more about some of the projects I've worked on, visit my online
+🗝️ If you want to learn more about some of the projects I've worked on, visit my online [@dedi011002](https://www.github.com/dedi011002)
 
 
 ## Authors
 
-- [@dedi011002](https://www.github.com/dedi011002)
+- [Dedi Supriadi](https://www.github.com/dedi011002)
 
 ## Support
 
