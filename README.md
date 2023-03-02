@@ -53,7 +53,3 @@ For support, email dedisupriadi011002@gmail.com or join our.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dedi011002&show_icons=true&locale=en" alt="dedi011002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dedi011002&" alt="dedi011002" /></p>
-
-
-
-
