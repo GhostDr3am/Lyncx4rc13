@@ -8,7 +8,7 @@ Dedi Supriadi is a Student at the Mataram Technology University, currently pursu
 
 ## What's my development setup?
 
-👩‍💻 For my terminal, I user **Ubuntu 18.04** running on **WSL**.
+👩‍💻 For my terminal, I user **Kali Linux 2022.4** running on *VM**.
 
 💻 My laptop runs on **Windows 11 Pro**
 
