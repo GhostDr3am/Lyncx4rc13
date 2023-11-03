@@ -52,4 +52,3 @@ For support, email dedisupriadi011002@gmail.com or join our.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lyncx4rc13&show_icons=true&locale=en" alt="Lyncx4rc13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lyncx4rc13&" alt="Lyncx4rc13" /></p>
